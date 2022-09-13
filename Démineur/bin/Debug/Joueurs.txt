@@ -1,0 +1,5 @@
+N,22,ffff,Moyen,17/54,10,2
+N,44,fdsgd,Moyen,17/54,10,2
+N,255,fds,Moyen,17/54,10,2
+N,1500,frewf,Difficile,75/337,63,3
+N,30,bdczbgfzb,Moyen,2/54,10,1
